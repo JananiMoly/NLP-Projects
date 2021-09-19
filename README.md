@@ -1,2 +1,1 @@
-# NLP Projects
- 
+Acing NLP one step a day! 
