@@ -1,4 +1,4 @@
-Topic Modeling is a technique used to extract information from a huge text corpus and classify them into relevant topics. There are no pre-defined examples to input-output mapping and hence I've used unsupervised machine learning techiques to create the model. There occur various methods to topic modeling. But in my code, I have applied the NMF and SVD technique to convert the tfidf and count vectorizer generated input vectors to matrices. I've also compared the SVD approach to that NMF to gauge which one is computationally expensive. 
+Topic Modeling is a technique used to extract information from a huge text corpus and classify them into relevant topics. There are no pre-defined examples to input-output mapping and hence I've used unsupervised machine learning techiques to create the model. There occur various methods to topic modeling. But in my code, I have applied the NMF and SVD technique to convert the tfidf and count vectorizer generated input vectors to matrices. I've also compared the SVD approach to NMF to gauge which one is computationally expensive. 
 
 Steps to approaching the topic modeling problem using Count Vectorize and SVD approach:
 
