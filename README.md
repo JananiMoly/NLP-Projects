@@ -1,1 +1,1 @@
-Acing NLP one step a day! 
+Topic Modeling is a technique used to extract information from a huge text corpus and classify them into relevant topics. There are various methods to topic modeling. In my code, I have applied the NMF and SVD technique to convert the tfidf and count vectorizer generated input vectors to matrices. I've also compared the SVD approach to that NMF to gauge which one is computationally expensive. 
